@@ -1,0 +1,10 @@
+C:\Users\alexp\OneDrive\Рабочий стол\ProjectPracticum\Project\Magnit\bin\Debug\Magnit.exe.config
+C:\Users\alexp\OneDrive\Рабочий стол\ProjectPracticum\Project\Magnit\bin\Debug\Magnit.exe
+C:\Users\alexp\OneDrive\Рабочий стол\ProjectPracticum\Project\Magnit\bin\Debug\Magnit.pdb
+C:\Users\alexp\OneDrive\Рабочий стол\ProjectPracticum\Project\Magnit\obj\Debug\Magnit.csprojAssemblyReference.cache
+C:\Users\alexp\OneDrive\Рабочий стол\ProjectPracticum\Project\Magnit\obj\Debug\Magnit.Form1.resources
+C:\Users\alexp\OneDrive\Рабочий стол\ProjectPracticum\Project\Magnit\obj\Debug\Magnit.Properties.Resources.resources
+C:\Users\alexp\OneDrive\Рабочий стол\ProjectPracticum\Project\Magnit\obj\Debug\Magnit.csproj.GenerateResource.cache
+C:\Users\alexp\OneDrive\Рабочий стол\ProjectPracticum\Project\Magnit\obj\Debug\Magnit.csproj.CoreCompileInputs.cache
+C:\Users\alexp\OneDrive\Рабочий стол\ProjectPracticum\Project\Magnit\obj\Debug\Magnit.exe
+C:\Users\alexp\OneDrive\Рабочий стол\ProjectPracticum\Project\Magnit\obj\Debug\Magnit.pdb
