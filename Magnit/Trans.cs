@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Magnit
 {
-    class Trans
+    public class Trans
     {
         // поля
         public float R { get; set; }// радиус
